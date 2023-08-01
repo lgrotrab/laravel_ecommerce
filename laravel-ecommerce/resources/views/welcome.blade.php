@@ -9,5 +9,6 @@
     </head>
     <body class="antialiased">
         <h1>Em construção</h1>
+        <p>Projeto para aprendizado de tecnologia laravel</p>
     </body>
 </html>
